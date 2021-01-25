@@ -1,0 +1,1 @@
+fe310-dev (for use with FE310-G002)
